@@ -1,6 +1,6 @@
 # friendly-workshop
 Demo Project
-Name: Gautam Bhattathiri
+
 Name: Zaid kesarani
 Name: Harshit 
 Name: Brijesh Dobariya
@@ -14,3 +14,4 @@ Name: Viraj Patel
 Name:Suryansh Srivastava
 Name: Sanskriti Sidola
 Name: Sandhya Kudipudi
+Name: Gautam Bhattathiri
