@@ -9,3 +9,6 @@ Name: Rushi Oza
 Name: Himanshu Bhavsar
 Name: Yax
 Name: Yash Shah
+Name: Raj Patel
+Name: Viraj Patel
+Name:Suryansh Srivastava
