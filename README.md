@@ -16,5 +16,6 @@ Name: Sanskriti Sidola
 Name: Sandhya Kudipudi
 Name: Gautam Bhattathiri
 </br>Name: Siddhant Pandey :star:
+Name: Chandra Vamshi Kandiboyina
 Name: RaghavJ
 Name: Vaibhav Tamakuwala
