@@ -11,9 +11,10 @@ Name: Yax
 Name: Yash Shah
 Name: Raj Patel
 Name: Viraj Patel
-Name:Suryansh Srivastava
+Name: Suryansh Srivastava
 Name: Sanskriti Sidola
 Name: Sandhya Kudipudi
 Name: Gautam Bhattathiri
 </br>Name: Siddhant Pandey :star:
 Name: RaghavJ
+Name: Vaibhav Tamakuwala
