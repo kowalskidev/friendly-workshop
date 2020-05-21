@@ -15,4 +15,4 @@ Name:Suryansh Srivastava
 Name: Sanskriti Sidola
 Name: Sandhya Kudipudi
 Name: Gautam Bhattathiri
-$Name: Siddhant Pandey$
+</br>Name: Siddhant Pandey 
